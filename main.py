@@ -16,11 +16,11 @@ def answer():
 		time = str("This is an invalid date")
 
 	answer = """
-	<DOCTYPE! html>
+	<!DOCTYPE html>
 	<html lang="en-US">
 	<head>
 		<title>Day of the Week</title>
-	<meta charset=utf-8">
+	<meta charset="utf-8">
 	</head>
 	<body>
 		<h1>Day of the Week</h1>
